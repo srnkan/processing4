@@ -12,7 +12,7 @@ import java.nio.file.*;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
 
-class StreamClosedTest {
+class UpdateCheckTest {
 
     @TempDir
     Path tempDir;
